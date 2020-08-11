@@ -1,1 +1,3 @@
-# pandu7022.github.io
+---
+permalink: /index.php
+---
