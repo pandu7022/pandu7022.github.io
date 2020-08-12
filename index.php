@@ -14,7 +14,7 @@
 	<div class="container">
 	</div>
 	<div class="b2">
-	<form action="signup.php" method="POST">
+	<form action="home.php" method="POST">
 		
 			<div class="n2"><center>Sign up</center></div><br>
 			<div class="n1">Student registration number</div>
